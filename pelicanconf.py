@@ -6,7 +6,7 @@ AUTHOR = 'Tylor Allison'
 SITENAME = 'Tylor Allison'
 SITETITLE = AUTHOR
 SITELOGO = '//s.gravatar.com/avatar/221e6e31de6232bf3175b820a4a961e7?s=120'
-SITESUBTITLE = 'GameDev Blog and Projects'
+SITESUBTITLE = 'Game Developer'
 SITEURL = 'http://127.0.0.1:8000'
 THEME = "Flex"
 FAVICON = '/images/favicon.ico'
@@ -32,7 +32,7 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (('linkedin',  'https://www.linkedin.com/in/tylor-allison-423a6413'),
-          ('github',    'https://github.com/ptjal'),
+          ('github',    'https://github.com/tylorallison'),
           ('twitter',   'https://twitter.com/TyAllison'),)
 
 MENUITEMS = (('Archives', '/archives.html'),
