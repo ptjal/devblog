@@ -31,7 +31,7 @@ COPYRIGHT_YEAR = 2017
 LINKS = ()
 
 # Social widget
-SOCIAL = (('linkedin',  'https://www.linkedin.com/in/tylor-allison-423a6413'),
+SOCIAL = (('linkedin',  'https://www.linkedin.com/in/tylor-allison'),
           ('github',    'https://github.com/tylorallison'),
           ('twitter',   'https://twitter.com/TyAllison'),)
 
