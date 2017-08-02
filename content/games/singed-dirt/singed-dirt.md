@@ -1,7 +1,7 @@
 Title: Singed Dirt
 Date: 2017-08-02
 Category: games
-Tags: gamedev gamkedo unity
+Tags: gamedev, gamkedo, unity
 
 ### The Game
 
