@@ -31,7 +31,7 @@ Some of the topics I plan on covering include:
 * Bezier patches
 * Code/C# optimizations
 
-### Sneak Peak
+### Sneak Peek
 
 In a not-so-distant future post I plan to cover a little on procedure generation of a planet. I had some help in getting started here, so I'll reference that awesome work and what I've done to make it my own.
 ![From Hex](images/HexWorld.png){.img-center}
