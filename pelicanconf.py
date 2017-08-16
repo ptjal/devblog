@@ -33,6 +33,7 @@ LINKS = ()
 # Social widget
 SOCIAL = (('linkedin',  'https://www.linkedin.com/in/tylor-allison'),
           ('github',    'https://github.com/tylorallison'),
+          ('bitbucket', 'https://bitbucket.com/ptjal'),
           ('twitter',   'https://twitter.com/TyAllison'),)
 
 MENUITEMS = (('Archives', '/archives.html'),
