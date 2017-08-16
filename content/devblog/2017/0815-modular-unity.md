@@ -26,6 +26,7 @@ There's a few assumptions that I'm going to make here:
 
 * You're using Unity and have C# projects
 * You're using git for version control
+* You're using **OSX Unity** or are comfortable enough with Windows to translate my unix commands (sorry, haven't tested on Windows)
 * You have code that is modular and want to use it across multiple projects
 
 To accomplish this last point, I've identified pieces of projects that I want to break out into
