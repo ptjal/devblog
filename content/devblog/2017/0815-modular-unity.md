@@ -169,6 +169,14 @@ To keep things simple, I strongly encourage you to only change referenced submod
 not locally within the local submodule links.  I know you can do this, I just find it less
 confusing not to.
 
+### Git Clone with Submodules
+
+The above steps get you setup with your github repo referencing submodules.  But what if you
+want to clone a git repo that already has submodule references?  Git clone will not
+automatically follow submodule references, but you can tell it to:
+
+    % git clone --recursive https://ptjal@bitbucket.org/ptjal/tysimpleshape.git
+
 ### Try It Out
 
 The referenced repositories are public.  Feel free to try it out and/or poke around.  Not much
